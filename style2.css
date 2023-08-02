@@ -1,0 +1,17 @@
+.wrapper{
+    height: 500px;
+    width: 400px;
+    background-color: black;
+    border-radius: 5px;
+    padding: 30px;
+}
+input{
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-top: 30px;
+    height: 2.5em;
+    width:60%;
+}
+.btn{
+   width:30%   
+}
